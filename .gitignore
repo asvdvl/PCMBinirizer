@@ -2,10 +2,7 @@
 /gray.png
 /model.png
 /out_bin.log
+/out_bin_p.log
 /out_parse.log
-/shakalwhitenoise1min.avi
 /traindata
-a.wav
-av1.avi
-av2.avi
-shakalwhitenoise1min.wav
+/testfiles
