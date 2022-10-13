@@ -1,8 +1,5 @@
 /.ipynb_checkpoints
-/gray.png
 /model.png
-/out_bin.log
-/out_bin_p.log
-/out_parse.log
-/traindata
 /testfiles
+/dataset
+/Pipfile
