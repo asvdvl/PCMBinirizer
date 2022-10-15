@@ -3,3 +3,6 @@
 /testfiles
 /dataset
 /Pipfile
+/model
+/logs
+/output
