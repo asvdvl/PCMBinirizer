@@ -9,7 +9,7 @@ conda activate tf
 
 #cudatoolkit-dev=11.2.2
 conda install -y -c conda-forge cudatoolkit=11.8.0 jupyterlab
-pip install nvidia-cudnn-cu11==8.6.0.163
+pip install nvidia-cudnn-cu11==8.6.0.163 humanize
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/
 mkdir -p $CONDA_PREFIX/etc/conda/activate.d
